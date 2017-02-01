@@ -1,0 +1,8 @@
+{
+  "globalDependencies": {
+    "node": "registry:dt/node#6.0.0+20161121110008"
+  },
+  "dependencies": {
+    "formidable": "registry:dt/formidable#1.0.16+20160510010627"
+  }
+}
